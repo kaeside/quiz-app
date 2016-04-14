@@ -1,0 +1,10 @@
+header h1,
+.question,
+#nextButton,
+#newGameButton {
+	text-align: center;
+}
+
+#nextButton {
+	margin: 2em auto;
+}
